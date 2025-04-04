@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Remouto!
 
+I am Remouto.
 Nice to meet you!
 
 <!--
