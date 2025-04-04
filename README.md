@@ -2,7 +2,9 @@
 
 I am Remouto.
 Nice to meet you!
-
+- 🌱 I’m currently learning full stack web3 development
+- 👯 I’m looking to collaborate on web3 projects
+- 📫 How to reach me: reimouto@gmail.com
 <!--
 **Reimouto/Reimouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
