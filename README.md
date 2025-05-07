@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Remouto.
+I am Reimouto.
 Nice to meet you!
 - 🌱 I’m currently learning full stack web3 development
 - 👯 I’m looking to collaborate on web3 projects
